@@ -1,0 +1,4 @@
+C:\Users\anvithaeda\source\repos\ANVITHAEDA_ISAM5430_HW2\Control variables\obj\Debug\netcoreapp2.1\Control variables.csprojAssemblyReference.cache
+C:\Users\anvithaeda\source\repos\ANVITHAEDA_ISAM5430_HW2\Control variables\obj\Debug\netcoreapp2.1\Control variables.csproj.CoreCompileInputs.cache
+C:\Users\anvithaeda\source\repos\ANVITHAEDA_ISAM5430_HW2\Control variables\obj\Debug\netcoreapp2.1\Control variables.AssemblyInfoInputs.cache
+C:\Users\anvithaeda\source\repos\ANVITHAEDA_ISAM5430_HW2\Control variables\obj\Debug\netcoreapp2.1\Control variables.AssemblyInfo.cs
